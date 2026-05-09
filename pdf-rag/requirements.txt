@@ -1,0 +1,7 @@
+pinecone
+sentence-transformers
+pypdf
+langchain
+langchain-community
+transformers
+torch
